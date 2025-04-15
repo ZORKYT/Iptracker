@@ -10,4 +10,7 @@ Welcome to the iptracker tool. The skill of this tool is to track domains or IP 
 - Logs Viewer
 
 ## Visitors :
-![Visitor](https://www.hitwebcounter.com/counter/counter.php?page=12391861&style=0038&nbdigits=7&type=ip&initCount=18)
+![Visitor]
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=20377639&style=0009&nbdigits=7&type=page&initCount=18" title="Counter Widget" Alt="Visit counter For Websites"   border="0" /></a>                                
