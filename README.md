@@ -9,5 +9,5 @@ Welcome to the iptracker tool. The skill of this tool is to track domains or IP 
 - Manual IP Tracker
 - Logs Viewer
 
-## Visitors:
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZORKYT/iptracker)
+## Visitors :
+![Visitor](https://www.hitwebcounter.com/counter/counter.php?page=12391861&style=0038&nbdigits=7&type=ip&initCount=18)
