@@ -1,14 +1,13 @@
 Welcome to the iptracker tool. The skill of this tool is to track domains or IP websites and targets. Apart from that, this tool can also track users, so use it wisely.
 
-## TRACKING:
-![Tracker Tool](IMG-20250415-WA0011.jpg)
+## Tool Screenshot
+![Tool Screenshot](tracker-screenshot.jpg)
 
-## Features:
-- Track Domain/IP
-- Public IP Tracker
-- Manual IP Tracker
-- Logs Viewer
+## Visitors
+![Visitor](https://hitwebcounter.com/counter/counter.php?page=20377715&style=0003&nbdigits=7&type=ip&initCount=18)
 
-##visitor
+---
 
-![Visitor](https://hitwebcounter.com/counter/counter.php?page=20377715&style=0009&nbdigits=7&type=ip&initCount=18)                                                         
+Connect with me:
+- **Website:** [yourwebsite.com](https://yourwebsite.com)
+- **Twitter:** [@yourusername](https://twitter.com/yourusername)
