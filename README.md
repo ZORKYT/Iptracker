@@ -1,10 +1,5 @@
 Welcome to the iptracker tool. The skill of this tool is to track domains or IP websites and targets. Apart from that, this tool can also track users, so use it wisely.
 
-# TRACKING TOOL
-
-**Author:** ZORKYT  
-**GitHub:** [https://github.com/ZORKYT](https://github.com/ZORKYT)
-
 ## Screenshot:
 ![Tracker Tool](IMG-20250415-WA0011.jpg)
 
