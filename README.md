@@ -6,7 +6,7 @@ Welcome to the iptracker tool. The skill of this tool is to track domains or IP 
 **GitHub:** [https://github.com/ZORKYT](https://github.com/ZORKYT)
 
 ## Screenshot:
-![Tracker Tool](screenshot.png)
+![Tracker Tool](IMG-20250415-WA0011.jpg)
 
 ## Features:
 - Track Domain/IP
